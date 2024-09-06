@@ -1,0 +1,12 @@
+.container {
+  width: 100% !important;
+}
+
+.container-mw-1200 {
+  width: 100%;
+  max-width: 1200px !important;
+  margin: auto !important;
+}
+.section1 {
+  margin: 20px 0;
+}

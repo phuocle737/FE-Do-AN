@@ -1,0 +1,80 @@
+.header-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  background-color: rgb(5, 4, 11);
+
+  &__top {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    height: 150px;
+
+    &__search {
+      width: 35%;
+    }
+    &__content {
+      display: flex;
+      justify-content: space-between;
+      gap: 15px;
+      margin: 10px;
+      font-weight: bold;
+      color: white;
+      // justify-items: center;
+      justify-content: center;
+      align-items: center;
+      &__phone {
+        display: flex;
+        flex-direction: row;
+        gap: 2px;
+        align-items: center;
+      }
+      &__cart {
+        cursor: pointer;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 2px;
+      }
+      &__Login {
+        cursor: pointer;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 2px;
+      }
+    }
+  }
+}
+
+.navbar-menu {
+  &__bottom {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 25px;
+    &__list {
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 10px;
+      &__item {
+        display: flex;
+        justify-content: space-evenly;
+        gap: 30px;
+        padding-right: 20px;
+        align-items: center;
+        a {
+          display: flex;
+          align-items: center;
+          gap: 5px;
+          font-size: medium;
+          text-decoration: none;
+        }
+        img {
+          width: 30px;
+          height: 30px;
+        }
+      }
+    }
+  }
+}

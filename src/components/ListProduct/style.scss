@@ -1,0 +1,31 @@
+.section1 {
+  border: 2px solid purple;
+}
+.horizontal-menu {
+  background-color: rgb(2, 19, 35);
+  margin-bottom: 10px;
+}
+.horizontal-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+}
+
+.horizontal-menu li {
+  float: left;
+  border-right: 1px solid #ccc;
+}
+
+.horizontal-menu li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.horizontal-menu li a:hover {
+  background-color: #edbe32;
+}

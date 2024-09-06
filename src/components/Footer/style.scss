@@ -1,0 +1,38 @@
+.footer-container {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(2, 2, 33);
+  max-width: 100%;
+  color: white;
+  gap: 15px;
+  margin: 5px 0px;
+  justify-content: space-around;
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    // gap: 1px;
+    // padding: 1px;
+    text-align: left;
+    margin-bottom: 5px;
+
+    &__contact {
+      display: flex;
+      gap: 10px;
+      cursor: pointer;
+      transition: color 0.3s;
+
+      &:hover {
+        color: yellowgreen;
+      }
+    }
+    p {
+      display: block;
+      margin-block-start: 5px;
+      margin-block-end: 5px;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      unicode-bidi: isolate;
+    }
+  }
+}

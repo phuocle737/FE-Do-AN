@@ -1,0 +1,213 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category_1": "Laptop",
+      "category_2": "Laptop Dell",
+      "productLine": " Dell gaming G series",
+      "productName": "Laptop Dell Gaming G15 5530 ( i7 13650HX | RAM 16GB | SSD 1TB | RTX 4060 8GB | 165HZ | Màn 15.6’’ ) NK",
+      "imgURL": "https://sp-one.vn/Content/uploads/2023/12/3-3.jpg",
+      "price": 45000000,
+      "priceKM": 29900000,
+      "productDetail": [
+        "CPU:   Core™ i7-13650HX (24 MBcache, 14 core, up to 4.90 GHz)",
+        "RAM:16GB (2x8GB) DDR5",
+        "Ổ cứng: 1TB M.2 PCIe NVMe SSD",
+        "VGA:NVIDIA® GeForce® RTX™ 4060 8GB"
+      ],
+      "description": "Phiên bản Dell Gaming G15 2023 đã trở lại với diện mạo hoàn toàn mới, với cấu hình được nâng cấp một cách toàn diện với Intel Core i7-13650HX, 16GB RAM DDR5 lắp sẵn, đi cùng với đó là VGA NVIDIA RTX 4060 vô cùng mạnh mẽ. Thiết kế phiên bản năm 2023 thay đổi không nhiều, phần mặt A thay vì hình cắt nổi khối tam giác ở giữa đã thay bằng hình cắt tam giác cân chính giữa mặt A, với logo Dell chính giữa, đơn giản hơn và sang trọng hơn.Dell Gaming G15 5530 được trạng bị màn hình 15.6″ độ phân giải FHD (1920×1080), vẫn sử dụng tấm nền WVA quen thuộc cho độ sáng cao hơn 400 nits, tần số quét 165Hz và độ phủ màu 100% sRGB cho khả năng hiển thị sắc nét và đẹp hơn."
+    },
+    {
+      "id": 2,
+      "category_1": "Laptop",
+      "category_2": "Laptop Dell",
+      "productLine": " Dell gaming G series",
+      "productName": "Laptop Dell Gaming G15 5530 (Core i5-13450HX | 16GB | 512GB | RTX 4050 6GB |15.6” FHD 165Hz,NK)",
+      "imgURL": "https://sp-one.vn/Content/uploads/2024/05/laptop-dell-G15.jpg",
+      "price": 26500000,
+      "priceKM": 23800000
+    },
+    {
+      "id": 3,
+      "category_1": "Laptop",
+      "category_2": "Laptop Dell",
+      "productLine": " Dell gaming G series",
+      "productName": "Laptop Dell Gaming G15 5520 1766B (Core i7-12700H, 16GB, 512GB, RTX 3060, 15.6 FHD, 165Hz, NK)",
+      "imgURL": "https://sp-one.vn/Content/uploads/2023/09/del-2.jpg",
+      "priceKM": 27990000
+    },
+    {
+      "id": 4,
+      "category_1": "Laptop",
+      "category_2": "Laptop Asus",
+      "productLine": " Asus ROG",
+      "productName": "Laptop Asus ROG Zephyrus G14 GA401QC-K2199W",
+      "imgURL": "https://sp-one.vn/Content/uploads/2022/06/99w-600x600.jpg",
+      "price": 31500000,
+      "priceKM": 27990000
+    },
+    {
+      "id": 5,
+      "category_1": "Laptop",
+      "category_2": "Laptop Asus",
+      "productLine": " Asus ROG",
+      "productName": "Laptop Asus Gaming ROG Zephyrus G16 GU603VU-N4019W",
+      "imgURL": "https://sp-one.vn/Content/uploads/2024/06/Cover_laptop_Chuan.png",
+      "price": 49900000,
+      "priceKM": 41790000
+    },
+    {
+      "id": 6,
+      "category_1": "Laptop",
+      "category_2": "Laptop Lenovo",
+      "productLine": " Lenovo Ideapad Gaming3 ",
+      "productName": "Laptop Lenovo Ideapad Gaming 3 15ACH6 82K200T0VN",
+      "imgURL": "https://sp-one.vn/Content/uploads/2022/09/82K200T0VN-2.jpg",
+      "priceKM": 5799000
+    },
+    {
+      "id": 7,
+      "category_1": "Laptop",
+      "category_2": "Laptop Lenovo",
+      "productLine": " Lenovo Legion 5 ",
+      "productName": "Laptop Lenovo Legion 5 15ARH7 82RE002VVN",
+      "imgURL": "https://sp-one.vn/Content/uploads/2022/07/2vvn-600x600.png",
+      "priceKM": 5799000
+    },
+    {
+      "id": 8,
+      "category_1": "Laptop",
+      "category_2": "Laptop Acer",
+      "productLine": "Acer nitro 5 Tiger",
+      "productName": "Laptop Acer Nitro 5 Tiger",
+      "imgURL": "https://sp-one.vn/Content/uploads/2022/01/52sp-1.jpg",
+      "priceKM": 19500000
+    },
+    {
+      "id": 9,
+      "category_1": "PC Gaming",
+      "productName": "PC R1660s",
+      "imgURL": "https://sp-one.vn/Content/uploads/2023/10/AW.jpg",
+      "price": 11810400,
+      "priceKM": 10790000
+    },
+    {
+      "id": 10,
+      "category_1": "PC Gaming",
+      "productName": "PC 11400F | GTX 1660 super| 22in",
+      "imgURL": "https://sp-one.vn/Content/uploads/2023/06/s23.jpg",
+      "price": 16106100,
+      "priceKM": 14760000
+    },
+    {
+      "id": 11,
+      "category_1": "PC Gaming",
+      "productName": "PC APC 4500|RTX 3060 8GB|24in",
+      "imgURL": "https://sp-one.vn/Content/uploads/2023/06/s20.jpg",
+      "price": 19416120,
+      "priceKM": 17400000
+    },
+    {
+      "id": 12,
+      "category_1": "PC Gaming",
+      "productName": "PC Ultra i9 RTX 3060",
+      "imgURL": "https://sp-one.vn/Content/uploads/2023/08/TWO-DEN.jpg",
+      "price": 32500000,
+      "priceKM": 28550000
+    },
+    {
+      "id": 13,
+      "category_1": "PC Gaming",
+      "productName": "PC Svip1 i7 13700K RTX 3060ti",
+      "imgURL": "https://sp-one.vn/Content/uploads/2019/06/GOD-3.jpg",
+      "price": 32500000,
+      "priceKM": 28550000
+    },
+    {
+      "id": 14,
+      "category_1": "Màn Hình",
+      "productName": "Màn hình ViewSonic VA2215 21.5 inch FHD 75Hz",
+      "imgURL": "https://sp-one.vn/Content/uploads/2023/04/viewsonic_va2215-h_1.webp",
+      "price": 2350000,
+      "priceKM": 1790000
+    },
+    {
+      "id": 15,
+      "category_1": "Màn Hình",
+      "productName": "Màn Hình MSI MP223 100Hz (21.45 inch, 1920 x 1080, VA, 100Hz, 1ms)",
+      "imgURL": "https://sp-one.vn/Content/uploads/2023/04/Man-Hinh-MSI-MP223-1.jpg",
+      "price": 2430000,
+      "priceKM": 1950000
+    },
+    {
+      "id": 16,
+      "category_1": "Màn Hình",
+      "productName": "Màn Hình SamSung LS24C330GAEXXV (24INCH/IPS/FHD/100HZ)",
+      "imgURL": "https://sp-one.vn/Content/uploads/2023/08/LS24C330GAEXXV-sp-one-1.png",
+      "price": 3500000,
+      "priceKM": 2850000
+    },
+    {
+      "id": 17,
+      "category_1": "Màn Hình",
+      "productName": "Màn hình Gaming MSI G244F (24 inch/FHD/IPS/170Hz/1ms)",
+      "imgURL": "https://sp-one.vn/Content/uploads/2024/02/man-hinh-gaming-msi-g244f-24-inch_6_.png",
+      "price": 3300000,
+      "priceKM": 2950000
+    },
+    {
+      "id": 18,
+      "category_1": "Chuột Bàn Phím",
+      "productName": "Chuột Gaming E-DRA EM6102",
+      "imgURL": "https://sp-one.vn/Content/uploads/2024/01/296_61024.jpg",
+      "price": 210000,
+      "priceKM": 190000
+    },
+    {
+      "id": 19,
+      "category_1": "Chuột Bàn Phím",
+      "productName": "Chuột không dây Logitech M221 Wireless",
+      "imgURL": "https://sp-one.vn/Content/uploads/2021/06/m220-charcoal-gallery-1-600x515.png",
+      "price": 315000,
+      "priceKM": 275000
+    },
+    {
+      "id": 20,
+      "category_1": "Chuột Bàn Phím",
+      "productName": "Bàn phím cơ DareU EK8100 RGB",
+      "imgURL": "https://sp-one.vn/Content/uploads/2023/07/ek8100_1_22968c292e96463cb303ba7a9eb054b1_76b57ef9184b4961812b0c43b571db2d_master.webp",
+      "price": 650000,
+      "priceKM": 610000
+    },
+    {
+      "id": 21,
+      "category_1": "Chuột Bàn Phím",
+      "productName": "Bàn phím cơ DareU EK75 White Black DareU Dream switch",
+      "imgURL": "https://sp-one.vn/Content/uploads/2023/09/21337.png",
+      "price": 750000,
+      "priceKM": 690000
+    },
+    {
+      "id": 22,
+      "category_1": "Chuột Bàn Phím",
+      "productName": "Bàn phím cơ không dây DarkFlash GD108 Starry Blue Yellow Axis switch",
+      "imgURL": "https://sp-one.vn/Content/uploads/2023/09/45476_darkflash_gd108_starry_blue__1_.jpg",
+      "price": 1100000,
+      "priceKM": 925000
+    }
+  ],
+  "users": [
+    {
+      "email": "phuocle737@gmail.com",
+      "phoneNumber": "0775103534",
+      "address": "thon 4 dien hong dien ban quan nam",
+      "confirmPassword": "123456",
+      "password": "123456",
+      "user": "phuoclh",
+      "gender": "male",
+      "age": 28,
+      "fullName": "le hong phuoc",
+      "id": 1
+    }
+  ]
+}
